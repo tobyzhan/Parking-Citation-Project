@@ -38,7 +38,7 @@ This project analyzes **475,638 parking citations** issued across San Diego in 2
    ```sh
    pip install pandas numpy matplotlib scikit-learn scipy requests tqdm
    ```
-2. **Run notebooks in order** — start with [03-FinalProject.ipynb](03-FinalProject.ipynb) for the full analysis. The first cell will automatically download raw data to `data/00-raw/`.
+2. **Run the last notebook** — [03-FinalProject.ipynb](03-FinalProject.ipynb) for the full analysis. The first cell will automatically download raw data to `data/00-raw/`.
 
 ## Project Video
 https://drive.google.com/file/d/1cS1ebV9NzwmMCXe1jqe1JWw6uRpWBT9w
